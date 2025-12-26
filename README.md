@@ -1,5 +1,5 @@
-<img width="1197" height="672" alt="Kaggle" src="https://github.com/user-attachments/assets/d162e3bf-a8d1-48a5-a035-23ae45b994b7" />
 # BARD Vehicle Detection
+<img width="1197" height="672" alt="Kaggle" src="https://github.com/user-attachments/assets/d162e3bf-a8d1-48a5-a035-23ae45b994b7" />
 
 ## Dataset
 This dataset is a combination of:
