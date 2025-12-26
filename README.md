@@ -1,7 +1,7 @@
 # BARD Vehicle Detection
 
 ## Dataset
-Dataset combination of:
+This dataset is a combination of:
 * Berkeley DeepDrive 100K (BDD100K)
 * Adverse Conditions Dataset with Correspondences (ACDC)
 * Real-world Task-driven Testing Set (RTTS)
@@ -9,6 +9,9 @@ Dataset combination of:
 
 ### Link
 https://www.kaggle.com/datasets/mingshen0118/bard-vehicle-detection
+
+## License
+This dataset is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Citation
 If you use this dataset in your work, please cite:
