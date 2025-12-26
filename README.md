@@ -10,12 +10,15 @@ Dataset combination of:
 ## Citation
 If you use this dataset in your work, please cite:
 
+### APA
 ~~~
 Chea, M. S. (2025). BARD (Version 1.0.0) [Data set]. https://www.kaggle.com/datasets/mingshen0118/bard-vehicle-detection
 ~~~
 
+### BibTeX
 ~~~
-@misc{Chea_BARD_2025,
+@misc{
+  Chea_BARD_2025,
   author = {Chea, Ming Shen},
   month = dec,
   title = {{BARD}},
