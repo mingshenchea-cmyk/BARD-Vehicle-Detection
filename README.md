@@ -1,4 +1,4 @@
-# BARD
+# BARD Vehicle Detection
 
 ## Dataset
 Dataset combination of:
